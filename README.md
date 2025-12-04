@@ -1,6 +1,6 @@
-## QuickBooks Payroll API - PHP Sample
+## QuickBooks Payroll Compensation API - PHP Sample
 
-A PHP sample app that demonstrates calculating QuickBooks Indirect Sales Tax via GraphQL and checking Sales Tax enablement (Preferences) via REST. Includes OAuth 2.0 flow and simple UI pages for testing.
+A PHP sample app for exploring QuickBooks Online payroll compensation and time-activity workflows via GraphQL and REST, complete with OAuth 2.0 flow and lightweight UI pages for testing.
 
 ## Features
 
