@@ -1,4 +1,4 @@
-## QuickBooks Sales Tax (Indirect Tax) API - PHP Sample
+## QuickBooks Payroll API - PHP Sample
 
 A PHP sample app that demonstrates calculating QuickBooks Indirect Sales Tax via GraphQL and checking Sales Tax enablement (Preferences) via REST. Includes OAuth 2.0 flow and simple UI pages for testing.
 
