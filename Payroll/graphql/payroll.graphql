@@ -1,0 +1,19 @@
+query getEmployeeCompensations($filter: Payroll_EmployeeCompensationsFilter!) {
+  payrollEmployeeCompensations(filter: $filter ){
+  	edges {
+    	node {
+      	  id
+          active
+      	  employerCompensation {
+        id
+           name
+           type {
+            key
+            description
+            value
+           }
+    	  }
+  	    }
+      }
+    }
+  }

@@ -1,0 +1,6 @@
+{
+  "filter": {
+    "employeeId": "123",
+    "active": true
+  }
+}

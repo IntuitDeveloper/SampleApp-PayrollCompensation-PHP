@@ -1,0 +1,22 @@
+mutation CreateTimeActivity($input: TimeActivityInput!) {
+  createTimeActivity(timeActivity: $input) {
+    id
+    date
+    hours
+    description
+    billable
+    employee {
+      id
+      name
+    }
+    project {
+      id
+      name
+    }
+    customer {
+      id
+      name
+    }
+  }
+}
+

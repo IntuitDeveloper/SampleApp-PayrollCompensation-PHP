@@ -1,0 +1,19 @@
+.DS_Store
+.idea/
+composer.lock
+vendor/
+
+# Configuration files with secrets
+.env
+.env.local
+*/dotnet/*
+*/SampleApp-Payroll-Java/*
+*/sampleapp-employeecompensation-nodejs/*
+
+# Logs
+/tmp/qb_logs/
+/var/log/qb_logs/
+logs/
+*.log
+OAuth_2/stored_customers.json
+PHPSampleAPPPayrollCompensationAPI.iml
